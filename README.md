@@ -1,5 +1,3 @@
-leetcode-java
-
 LeetCode solutions in Java, maintained as part of my ongoing practice.
 
 📖 About
