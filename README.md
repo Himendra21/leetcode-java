@@ -1,47 +1,42 @@
-# DSA-Journey 🚀
+leetcode-java
 
-> A repository documenting my journey of learning Data Structures and Algorithms using Java.
+LeetCode solutions in Java, maintained as part of my ongoing practice.
 
-## 📖 About
+📖 About
 
-This repository contains the problems I solve while learning DSA. Each solution represents my effort to understand the logic, improve my approach, and optimize my code over time.
+This repository contains my LeetCode solutions written in Java. It serves as a record of consistent practice and my progress in strengthening problem-solving skills and understanding data structures and algorithms.
 
-## 🎯 Goals
+🎯 Goals
 
-- Build strong problem-solving skills
-- Master DSA concepts and patterns
-- Improve from brute force to optimal solutions
-- Prepare for technical interviews
-- Track my consistency and growth
+* Build strong problem-solving skills
+* Develop a solid understanding of DSA concepts and patterns
+* Improve from brute-force approaches to efficient solutions
+* Prepare for technical interviews
+* Maintain consistency through regular practice
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
-- Language: Java
-- Platform: LeetCode
-- IDE: IntelliJ IDEA
+* Language: Java
+* Platform: LeetCode
+* IDE: IntelliJ IDEA
 
-## 📚 Topics Covered
+📚 Topics Covered
 
-- Arrays
-- Strings
-- Binary Search
-- Hashing
-- Linked Lists
-- Stack & Queue
-- Recursion
-- Trees
-- Graphs
-- Dynamic Programming
-- Greedy Algorithms
-- Backtracking
+* Arrays
+* Strings
+* Binary Search
+* Hashing
+* Linked Lists
+* Stack & Queue
+* Recursion
+* Trees
+* Graphs
+* Dynamic Programming
+* Greedy Algorithms
+* Backtracking
 
-## 📈 Progress
+📈 Progress
 
-This repository is updated regularly as I solve new problems and revisit old ones to write better solutions.
+This repository is regularly updated as I solve new problems and refine existing solutions through continued practice.
 
-## 🌱 Philosophy
-
-> "It's not about solving 1,000 problems quickly.
-> It's about becoming the person who can solve any problem with patience and logic."
-
-⭐ If you find this repository helpful, consider giving it a star!
+⭐ If you find this repository helpful, consider giving it a star.
