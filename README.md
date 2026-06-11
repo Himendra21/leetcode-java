@@ -51,7 +51,7 @@ This repository spans multiple concepts in **DSA**, covering topics such as:
 - Greedy Algorithms  
 - Backtracking  
 
-Each topic is carefully structured into **solutions** that include clear approaches, thought processes, and detailed analysis to simplify complex problems.
+Each topic is carefully structured into **solutions** that include clear codes of approaches to simplify complex problems.
 
 ---
 
