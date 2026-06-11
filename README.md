@@ -1,85 +1,78 @@
 # leetcode-java
 
-**LeetCode Solutions in Java: A Journey of Structured Learning and Growth**  
+LeetCode solutions in Java, maintained as part of my ongoing problem-solving practice.
 
 ---
 
 ## 📖 About
 
-Welcome to my **LeetCode solutions repository**, where I systematically tackle algorithmic challenges using **Java**. This repository reflects my dedication to mastering **Data Structures and Algorithms (DSA)**, improving **problem-solving skills**, and preparing for **challenging technical interviews**.
+This repository contains my **LeetCode solutions** written in **Java**. It serves as a detailed account of my journey to strengthen **problem-solving skills** while mastering **Data Structures and Algorithms (DSA)**.
 
-Every solution documents my **approach**, **thought process**, and **learnings**, showcasing a commitment to growth through consistent practice and iteration.
+Every solution reflects my commitment to consistency, detailed understanding, and continuous improvement.
 
 ---
 
 ## 🎯 Objectives
 
-This project is more than a collection of solutions – it’s a roadmap for becoming a strong, adaptable problem solver. Here’s what I aim to achieve:
+This repository is focused on achieving the following objectives:
 
-- **Strengthen Problem-Solving**: Move from naive solutions to optimal ones with clear thought processes.  
-- **Master DSA Concepts**: Build a robust understanding of core algorithms, data structures, and their applications.  
-- **Interview Preparedness**: Develop confidence for tackling competitive **technical interviews**.  
-- **Consistency is Key**: Solve problems regularly to build rhythm, discipline, and improvement over time.  
-- **Iterative Growth**: Revisit older solutions to incorporate new insights, techniques, and optimizations.  
-
----
-
-## 🛠️ Tools & Tech Stack
-
-- **Programming Language**: Java  
-- **Problem-Solving Platform**: [LeetCode](https://leetcode.com/)  
-- **Development Environment**: IntelliJ IDEA  
-
-🔗 **Why Java?**  
-- Java offers a blend of **performance**, **robust APIs**, and relevance in technical interviews, making it an ideal choice for algorithmic challenges.  
+- **Problem-Solving Excellence**: Reinforce and hone problem-solving approaches, moving from basic to optimal solutions.
+- **DSA Expertise**: Establish a deep understanding of **data structures**, **algorithms**, and **patterns**.
+- **Interview Preparation**: Build confidence for tackling **technical interviews**.
+- **Consistency Through Practice**: Solve problems regularly to ensure steady progress and development.
+- **Refinement Over Time**: Revisit older solutions for optimization and clarity.
 
 ---
 
-## 📚 Topics Explored
+## 🛠️ Tech Stack
 
-This repository serves as a deep dive into core **DSA concepts** that underpin technical problem-solving:
+- **Language**: Java  
+- **Platform**: [LeetCode](https://leetcode.com/)  
+- **IDE**: IntelliJ IDEA  
 
-- **Arrays**: Efficient traversal and manipulation techniques.  
-- **Strings**: Pattern matching and regex-oriented solutions.  
-- **Binary Search**: Divide-and-conquer approaches for sorted data structures.  
-- **Hashing**: Fast lookups using maps, sets, and hashing techniques.  
-- **Linked Lists**: Implementing single and doubly linked structures, solving real-world problems.  
-- **Stacks & Queues**: Order-preserving data structures for solving balanced brackets, sliding windows, and more.  
-- **Trees**: Binary Trees, Binary Search Trees (BSTs), AVL Trees, and advanced recursive operations.  
-- **Graphs**: Solving connectivity issues with DFS, BFS, Dijkstra’s, and Topological Sort.  
-- **Recursion & Backtracking**: Empower problem breakdown using recursive strategies.  
-- **Dynamic Programming (DP)**: Strategic memoization to solve overlapping subproblems.  
-- **Greedy Algorithms**: Optimal, greedy approaches to minimize problems like scheduling, partitioning.  
-- **Backtracking**: Solving exhaustive search scenarios such as N-Queens, subsets, and permutations.  
-
-Each topic is accompanied by detailed solutions to real coding problems that help deepen the understanding of **conceptual foundations**.
+🔗 Chosen for their reliability, versatility, and alignment with professional problem-solving standards.
 
 ---
 
-## 📈 Progress Tracker
+## 📚 Topics Covered
 
-This repository actively evolves to mirror my **progression** and **commitment**:
+This repository spans multiple concepts in **DSA**, covering topics such as:
 
-1. **New Additions**: Regular updates with solutions to fresh challenges.  
-2. **Refined Solutions**: Refactored and optimized older solutions for clarity and efficiency.  
-3. **Consistent Learning**: A disciplined focus on solving problems steadily over time.  
+- Arrays  
+- Strings  
+- Binary Search  
+- Hashing  
+- Linked Lists  
+- Stack & Queue  
+- Trees  
+- Graphs  
+- Recursion  
+- Dynamic Programming  
+- Greedy Algorithms  
+- Backtracking  
 
----
-
-## ⭐ Key Highlights
-
-- Structured solutions with proper explanations, **complexity analysis**, and approaches.  
-- Solutions evolving with experience to reflect **growth** and **refinement**.  
-- A curated mix of problems aiming for **depth** (tackling advanced concepts) and **breadth** (covering multiple patterns).  
-
----
-
-## 📌 Notes & Takeaways
-
-- This repository represents **my learning journey**, evolving with every problem I solve.  
-- Feedback, suggestions, and collaboration are highly appreciated – growth is better together!  
-- ⭐ Consider starring this repository if you find my work valuable and insightful.  
+Each topic is carefully structured into **solutions** that include clear approaches, thought processes, and detailed analysis to simplify complex problems.
 
 ---
 
-## 🌐 Connect & Collabor
+## 📈 Progress
+
+This repository is updated routinely to reflect:
+
+1. **New Solutions**: Solutions to additional problems across various DSA topics.
+2. **Refined Code**: Improvements to older solutions for enhanced clarity, optimality, and maintainability.
+3. **Consistent Practice**: Evidence of regular updates highlighting my commitment to disciplined problem-solving.
+
+---
+
+## 📌 Notes
+
+- These solutions represent my **learning curve** and **problem-solving efforts**.  
+- Feedback and constructive suggestions are always welcome.  
+- ⭐ If you find this repository helpful or insightful, please consider leaving a star.
+
+---
+
+## 📬 Connect
+
+Feel free to reach out or explore discussions around Java-based problem-solving.
